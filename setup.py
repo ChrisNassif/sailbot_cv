@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'nn'
+package_name = 'object_detection'
 
 setup(
     name=package_name,
